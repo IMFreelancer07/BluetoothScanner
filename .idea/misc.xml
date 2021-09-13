@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/drawable/btlistviewadapter.xml" value="0.2604166666666667" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/drawable/button_shape_grey.xml" value="0.14947916666666666" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/drawable/thumb_off.xml" value="0.1" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/drawable/thumb_on.xml" value="0.1" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/drawable/tracktp.xml" value="0.1" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter.xml" value="0.264" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter1.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter2.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter3.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter4.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/bt_adapter5.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/fragment_deviceitem_list.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/localdata.xml" value="0.264" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point1.xml" value="0.264" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point2.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point3.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point4.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point5.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_point6.xml" value="0.259375" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/timing_points.xml" value="0.1" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/layout/viewdata.xml" value="0.1328125" />
+        <entry key="..\:/Projects/Mobile_Apps/Fiverr_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/toptxt"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="100dp"
+        android:text="@string/top_text"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="@dimen/large_text_size"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+<ScrollView
+    android:id="@+id/scrollView"
+    android:layout_below="@+id/toptxt"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/btntp1"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp1"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+    <Button
+        android:id="@+id/btntp2"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp2"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+    <Button
+        android:id="@+id/btntp3"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp3"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+    <Button
+        android:id="@+id/btntp4"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp4"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+    <Button
+        android:id="@+id/btntp5"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp5"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+    <Button
+        android:id="@+id/btntp6"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/tp6"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+    <Button
+        android:id="@+id/btnviewData"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btntp6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:minHeight="@dimen/btn_min_height"
+        android:text="@string/view"
+        android:textAllCaps="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size" />
+
+
+    <Button
+        android:id="@+id/logoutBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_shape"
+        android:layout_below="@+id/btnviewData"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/btn_text_color"
+        android:textSize="@dimen/btn_text_size"
+        android:text="LOGOUT" />
+    </RelativeLayout>
+</ScrollView>
+
+
+</RelativeLayout>

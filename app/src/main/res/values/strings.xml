@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IBEX TIMING</string>
+    <string name="enter_pin">ENTER PIN:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="top_text">SELECT TP:</string>
+    <string name="tp1">TIMING POINT 1</string>
+    <string name="tp2">TIMING POINT 2</string>
+    <string name="tp3">TIMING POINT 3</string>
+    <string name="tp4">TIMING POINT 4</string>
+    <string name="tp5">TIMING POINT 5</string>
+    <string name="tp6">TIMING POINT 6</string>
+    <string name="view">VIEW DATA</string>
+
+</resources>
